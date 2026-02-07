@@ -156,26 +156,3 @@ if __name__ == "__main__":
         LIMIT 5
     """
     print(query_database(sql, db_path="Projects\\ToastMetrics\\toastmetrics.db"))
-
-# Me: Copilot, ChatGPT gave me the code for this application. Do you see any issues with it?
-# Copilot: The code looks well-structured and accomplishes the task of loading and analyzing menu-breakdown CSV files effectively.
-# However, there are a few potential improvements and considerations:
-# 1. Error Handling: The code currently does not include error handling for file reading operations. 
-# It would be beneficial to add try-except blocks around file I/O operations to handle cases where files may not be accessible or are corrupted.
-# 2. Performance: If the dataset is large, consider optimizing the data loading and processing steps.
-# For example, using chunksize in pandas.read_csv() can help manage memory usage.
-# 3. Logging: Instead of using print statements, consider using the logging module for better control over logging levels and outputs.
-# 4. Documentation: While the functions have docstrings, adding more detailed explanations and examples could enhance usability for other developers.
-# 5. Type Annotations: The code could benefit from more consistent use of type annotations for function parameters and return types to improve code clarity and facilitate static analysis.
-# 6. Unit Tests: Implementing unit tests for the functions would help ensure the code's reliability and make future modifications safer.
-# Overall, the code is functional and clear, but addressing these points could enhance its robustness and maintainability.
-# Me: Thank you. This is intended to be the 2nd of two portfolio projects demonstrating my Python skills. The first project is the file that is
-# currently open titled waste_tracker.py. I just want to make sure that project 2 is as good as it can be.
-# Copilot: Understood. The ToastMetrics application you've provided is a solid demonstration of your Python skills,  
-# particularly in data manipulation and analysis using pandas. Here are some additional suggestions to further enhance the quality of your project:
-# 1. Modularization: Consider breaking down the code into smaller modules or classes if the project expands in the future.
-#    This can help in organizing the code better and making it more maintainable.
-# 2. User Interface: If this application is intended for end-users, consider adding a simple command-line interface (CLI) 
-#    or graphical user interface (GUI) to allow users to specify the base path and other parameters interactively.
-# 3. Configuration: Use a configuration file (e.g., JSON, YAML) to manage settings like the base path, output options, and analysis parameters.
-# This can make the application more flexible and easier to configure without changing the code.
