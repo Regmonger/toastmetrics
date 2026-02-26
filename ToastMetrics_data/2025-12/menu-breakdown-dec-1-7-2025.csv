@@ -1,252 +1,252 @@
-Sales Category,Item Name,Modifier,,Avg Price,Quantity,Gross Sales,Discount Amount,Net Sales
-Food,,,,24.66,1221.4999909999997,30118.07,704.75,29413.32,
-Food,Dessert Trio,,,26,4,104,0,104,
-Food,Classic Caesar Salad,,,15.516059869963716,70.999999,1088.04,7.5,1080.54,
-Food,Chitarra Cacio e Pepe,,,31.445554684778823,72,2314,0,2314,
-Food,Fingerling Potatoes,,,8.25,4,33,0,33,
-Food,Tiramisu,,,12.333333333333334,49,592,192,400,
-Food,Ravioli del Salumiere,,,25.41883116883117,49,1260,12,1248,
-Food,APP SPECIAL,,,20.333333333333332,28,595,25,570,
-Food,Marinated Olives,,,5.333333333333333,16,82,0,82,
-Food,NY Steak,,,42,11,462,0,462,
-Food,Branzino,,,34.2,11,375,0,375,
-Food,Eggplant Parmigiana,,,18,17,306,0,306,
-Food,Fettuccine Nere,,,24.261363636363637,31,757,0,757,
-Food,Prosciutto di Parma,,,14.00046218507757,17.499999,245.01,7,238.01,
-Food,Gelato,,,10,10,100,10,90,
-Food,Crucolo,,,14.001669001669002,6.999999,98.01,7,91.01,
-Food,Cavatelli Pomodoro,,,22.76878306878307,48,1086.5,31.5,1055,
-Food,Ossobuco,,,36,23,828,54,774,
-Food,Salame Cioccolato,,,12.2,6,74,0,74,
-Food,Almond cake,,,12,9,108,0,108,
-Food,Kids Polpette,,,14,5,70,0,70,
-Food,Ribeye,,,48.56666666666667,30,1475,73.5,1401.5,
-Food,Verde del Contadino,,,9.75,4,39,0,39,
-Food,Parma e Bufala Caprese,,,28.142857142857142,15,421,42,379,
-Food,Roasted Asparagus,,,8.166666666666666,12,97,2,95,
-Food,Shrimp Skewers,,,29.333333333333332,14,408,29,379,
-Food,Giardiniera,,,5.402001002001002,4.999999,27.01,0,27.01,
-Food,Kids Pasta,,,12.333333333333334,9,114,6,108,
-Food,Burratina,,,18.142857142857142,18,325,0,325,
-Food,Pasta,,,20.466666666666665,11,224,0,224,
-Food,Pecorino Toscano,,,14,9,126,0,126,
-Food,Green Beans,,,8.25,6,49,0,49,
-Food,Lasagna del Salumiere,,,22.25,47,1037,0,1037,
-Food,Tagliatelle Bolognese,,,20.3,69,1385,10,1375,
-Food,Mixed Exotic Mushroom,,,8,9,72,0,72,
-Food,Calamari,,,19,31,589,0,589,
-Food,Tagliolini white truf,,,60.75,8,486,0,486,
-Food,Percorino al Tartufo,,,14.2,11.5,162,0,162,
-Food,Angelo's Meatballs,,,18.22222222222222,51,923,0,923,
-Food,Tagliolini al Limone,,,28.882807981492192,65,1858.5,59.75,1798.75,
-Food,Cheese Selection,,,29.167920292920293,11.999999,349.01,14.5,334.51,
-Food,Piovra,,,20,17,340,0,340,
-Food,Trio di Prosciutti,,,28,12,336,0,336,
-Food,Filet Mignon,,,53.00476190476191,19,1016,52,964,
-Food,Coppa Dolce,,,12,6,72,0,72,
-Food,Prosciutto San Daniele,,,14.166666666666666,11,155,0,155,
-Food,CANNOLI,,,12,12,144,0,144,
-Food,Pork Milanese,,,32.333333333333336,22,707,32,675,
-Food,Kids Ice cream,,,4,7,28,4,24,
-Food,Side Sauce,,,4.123500373500374,5.999999,23.49,0,23.49,
-Food,Broccolini,,,8,8,64,0,64,
-Food,Piccola Selezione,,,26,6,156,0,156,
-Food,Bread,,,0,36,0,0,0,
-Food,Creamy Spinach,,,8,6,48,0,48,
-Food,Lemon Pannacotta,,,12.2000024000024,4.999999,61,0,61,
-Food,Affogato,,,10,2,20,0,20,
-Food,Kids Milanese,,,16,3,48,24,24,
-Food,Grande Selezione,,,35,1,35,0,35,
-Food,SOUP,,,12,9,108,0,108,
-Food,Spaghetti Alla Bottarga,,,28,4,112,0,112,
-Food,Pasta Special,,,29.333333333333332,12,348,0,348,
-Food,Grissini Side,,,6,1,6,0,6,
-Food,Fish SPECIAL,,,41.5,15,662,0,662,
-Food,Speck,,,13,1,13,0,13,
-Food,Lamb Chop,,,43,8,341,0,341,
-Food,Parmigiano,,,14.25,6,85,0,85,
-Food,Side Blk Pepper Honey,,,3.000001125001125,3.999999,12,0,12,
-Food,Brie,,,14,4,56,0,56,
-Food,Unmet Food,,,1806.5,1,1806.5,0,1806.5,
-Food,MAGNIFICO $130 INDIVIDUAL ENTREE,,,130,12,1560,0,1560,
-Food,Salmone Capperi e Limone,,,34,5,170,0,170,
-Food,Cake Fee,,,3,1,3,0,3,
-Food,Mashed Potatoes,,,8,5,40,0,40,
-Food,Chicken Marsala,,,36,1,36,0,36,
-Food,Gorgonzola,,,14,3,42,0,42,
-Food,Special BOARD,,,25,1,25,0,25,
-Food,Tagliolini al Tartufo Bianco,,,61.5,4,246,0,246,
-Food,Guanciale,,,14,1,14,0,14,
-Food,Bottarga Side,,,10,1,10,0,10,
-Food,Finocchiona,,,12,1,12,0,12,
-Food,Anchovies Side,,,4,1,4,0,4,
-Food,Gelato Famiglia,,,22,1,22,0,22,
-Food,Mortadella,,,11,3,33,0,33,
-Food,Tagliata,,,58,2,116,0,116,
-Food,Salame Nostrano,,,12.000006000006,2.499999,30,0,30,
-Food,Vitello Tonnato,,,20,5,100,10,90,
-Food,CHIX  Special,,,36,3,108,0,108,
-Liquor,,,,13.48,860,11593,389.5,11203.5,
-Liquor,Blood Orange Mule,,,13,15,195,0,195,
-Liquor,Smoky 'n' Hot,,,13,11,143,0,143,
-Liquor,TITOS,,,9.728571428571428,74,703,67.5,635.5,
-Liquor,Angelo Spritz,,,14,11,154,14,140,
-Liquor,MILAGRO SLVR,,,10.9375,26,304,9,295,
-Liquor,BOMBAY Dry,,,9,2,18,0,18,
-Liquor,BEEFEATER,,,10,16,160,20,140,
-Liquor,CASAMIGOS BLNC,,,12,9,108,0,108,
-Liquor,FLOR DE CANA 4YR,,,12,1,12,0,12,
-Liquor,MACALLAN 12,,,18,4,72,0,72,
-Liquor,FERNET BRANCA,,,10,11,110,5,105,
-Liquor,MARTINI,,,14.961904761904762,90,1337,43,1294,
-Liquor,Grapfruit Basil'tini,,,15,24,360,15,345,
-Liquor,Lavender Gimlet,,,14,5,70,0,70,
-Liquor,Planteray Cut & Dry,,,15,1,15,15,0,
-Liquor,WOODFORD RSV,,,11.5,5,59,0,59,
-Liquor,House old Fashioned,,,14,39,546,0,546,
-Liquor,Aperol Spritz,,,13,16,208,0,208,
-Liquor,MAKERS MARK,,,10.125,19,193,0,193,
-Liquor,SAMBUCA,,,9,6,54,0,54,
-Liquor,400 CONEJOS MEZCAL,,,13.25,3,37,4.5,32.5,
-Liquor,Espresso Martini,,,15.465941163699522,148,2377,72,2305,
-Liquor,BASIL HAYDENS,,,14.5,3,42,0,42,
-Liquor,First Coast Martini,,,14,18,252,0,252,
-Liquor,Rumplemiz,,,8,2,16,0,16,
-Liquor,CROWN ROYAL,,,11,6,66,0,66,
-Liquor,NEGRONI,,,12.8125,17,218,0,218,
-Liquor,KETEL ONE,,,10.6,17,176,10,166,
-Liquor,TEMPLETON RYE,,,15,1,15,0,15,
-Liquor,BACARDI WHITE,,,10.875,6,63,0,63,
-Liquor,HENDRICKS,,,12.5,4,50,0,50,
-Liquor,Montenegro NY Sour,,,14,5,70,14,56,
-Liquor,REDEMPTION RYE,,,14,2,28,0,28,
-Liquor,CHARTREUSE GREEN,,,13.666666666666666,5,65,6,59,
-Liquor,MILAGRO REPO,,,12.5,5,59,28.5,30.5,
-Liquor,Bellini,,,13,4,52,0,52,
-Liquor,CLAZE AZUL REPO,,,35,10,350,0,350,
-Liquor,LIMONCELLO,,,8.2,9,75,8,67,
-Liquor,LICOR 43,,,8,2,16,0,16,
-Liquor,JAMESON IRISH,,,10,6,60,0,60,
-Liquor,Don Fulano Repo,,,17.363636363636363,34,574,0,574,
-Liquor,BRANCAMENTA,,,10,4,40,0,40,
-Liquor,Buffalo Trace,,,11,17,187,0,187,
-Liquor,BAILEYS,,,9,5,45,0,45,
-Liquor,Paper Plane,,,15,16,240,0,240,
-Liquor,Don Fulano Blanco,,,14,5,70,14,56,
-Liquor,DISARONNO AMARETTO,,,12,4,48,0,48,
-Liquor,GREY GOOSE,,,13,8,116,0,116,
-Liquor,JACK DANIELS,,,9.083333333333334,24,219,0,219,
-Liquor,904 Collins,,,14,9,126,0,126,
-Liquor,BORGHETTI,,,8,9,72,0,72,
-Liquor,STOLI CITROS,,,12,1,12,0,12,
-Liquor,DJ 1942,,,31.5,3,96,0,96,
-Liquor,CASAMIGOS REPO,,,20.555555555555557,5,101,19,82,
-Liquor,Vesper,,,19,1,19,0,19,
-Liquor,GRAND MARNIER,,,10,9,90,0,90,
-Liquor,Boulevardier,,,13,2,26,0,26,
-Liquor,PATRON SILVER,,,12.3,7,87,0,87,
-Liquor,Spritz on the beach,,,14,1,14,0,14,
-Liquor,BOMBAY SAPPHIRE,,,10,1,10,0,10,
-Liquor,Glenfiddich 12yr,,,15,4,60,0,60,
-Liquor,Hugo spritz,,,14,4,56,0,56,
-Liquor,Dry Daquiri,,,14,1,14,0,14,
-Liquor,MONTENEGRO AMARO,,,8,1,8,0,8,
-Liquor,PATRON REPO,,,20,1,20,0,20,
-Liquor,ANGELS ENVY,,,14,2,28,0,28,
-Liquor,Atlantic Spritz,,,13,3,39,0,39,
-Liquor,El Guapo,,,13,4,52,0,52,
-Liquor,Don Fulano Anejo,,,22,3,66,0,66,
-Liquor,Patron XO,,,14.333333333333334,2,26,0,26,
-Liquor,BELVEDERE,,,12.5,2,25,0,25,
-Liquor,BOTANIST,,,10,4,40,20,20,
-Liquor,LUCANO AMARO,,,10,1,10,5,5,
-Liquor,Captain Morgan,,,9,2,18,0,18,
-Liquor,SKYY,,,9,1,9,0,9,
-Liquor,Tequila Smokey 'n' Hot,,,13,1,13,0,13,
-Liquor,Tullamore Dew,,,9,1,9,0,9,
-Wine,,,,25.37,342,8678,576,8102,
-Wine,Btl Morellino Scansano Pupille,,,52,4,208,0,208,
-Wine,Gls Sauv Blanc F.Sardi,,,15,20,300,0,300,
-Wine,Gls Cab Sauv-Bull by the Horns,,,15,36,540,15,525,
-Wine,Glass Baby Amarone-Masi,,,17,5,85,0,85,
-Wine,Btl Montepulciano Fantini,,,49,4,196,49,147,
-Wine,Btl Chianti Clas Rsv Lamole,,,78,2,156,0,156,
-Wine,Sample,,,0,21,0,0,0,
-Wine,Gls Syltbar Rose,,,14,3,42,0,42,
-Wine,Gls Pinot Noir Oregon T.,,,15,26,390,0,390,
-Wine,Gls Morellino Pupille,,,15,7,105,0,105,
-Wine,Gls Prosecco-Cin Cin,,,12,18,216,36,180,
-Wine,Gls Rose-Fattoria Sardi,,,14,7,98,0,98,
-Wine,Gls Pinot Grigio-Zenato,,,13,22,286,0,286,
-Wine,Btl Cab Sauv Bull by the Horns,,,58,4,232,0,232,
-Wine,Gls Montepulciano Fantini,,,13,10,130,0,130,
-Wine,Gls Super Tuscan Villa Antinori,,,16,48,768,0,768,
-Wine,Btl Prosecco- Cin Cin,,,42,5,210,0,210,
-Wine,Btl Valpolicella Zenato,,,54,2,108,0,108,
-Wine,Gls Moscato-Marenco,,,14,19,266,0,266,
-Wine,Btl Pinot Grigio Zenato,,,42,5,210,21,189,
-Wine,Btl Pinot Noir Oregon,,,58,6,348,58,290,
-Wine,Gls Vermentino-Argiolas,,,13,8,104,0,104,
-Wine,Btl Brunello Di Montalcino nova,,,194,2,388,0,388,
-Wine,Btl Nebbiolo-Prunotto,,,66,3,198,0,198,
-Wine,Btl Barolo-Prunotto,,,156,4,624,78,546,
-Wine,Btl Cutrer Chardonnay,,,54,4,216,0,216,
-Wine,Btl Rose Fattoria Sardi,,,56,1,56,0,56,
-Wine,Btl Super Tuscan-Antinori,,,56,5,280,28,252,
-Wine,Btl Falanghina Terredora,,,48,1,48,0,48,
-Wine,Btl Vermentino Argiolas,,,52,4,208,26,182,
-Wine,Btl Sauv Blanc F.Sardi,,,60,4,240,30,210,
-Wine,Gls Chardonnay-Cutter,,,15,10,150,0,150,
-Wine,Btl Baby Amarone-Masi,,,66,1,66,33,33,
-Wine,Btl Barbera D alba-Massolini,,,63,1,63,31.5,31.5,
-Wine,Btl Cab Sauv Bella Union,,,115,2,230,57.5,172.5,
-Wine,Btl Negroamaro San Marzano,,,82,1,82,41,41,
-Wine,Gls Pecorino-Zite,,,13,4,52,0,52,
-Wine,Btl Merlot-Rutherford Hills,,,72,1,72,36,36,
-Wine,CORK FEE,,,35,3,105,0,105,
-Wine,Gls Nebbiolo-Prunotto,,,18,4,72,0,72,
-Wine,Btl Amarone Riserva Masi,,,198,1,198,0,198,
-Wine,Btl Chianti Macie RSV,,,72,1,72,36,36,
-Wine,Gls Falanghina-Terredora,,,13,2,26,0,26,
-Wine,Btl Cab Sauv Caymus,,,234,1,234,0,234,
-NA Beverage,,,,5.74,144,826.98,18,808.98,
-NA Beverage,Mocktail,,,8,12,96,0,96,
-NA Beverage,Club Soda,,,4.5,2,9,0,9,
-NA Beverage,Panna,,,7,19,133,0,133,
-NA Beverage,San Pellegrino,,,7,33,231,0,231,
-NA Beverage,Coke (can),,,4.5,17,76.5,0,76.5,
-NA Beverage,Diet Coke (can),,,4.498571428571428,25,112.48,0,112.48,
-NA Beverage,Fresh Lemonade,,,5,4,20,0,20,
-NA Beverage,Ice tea,,,4.5,17,76.5,13.5,63,
-NA Beverage,Shirley Temple,,,5.5,5,27.5,0,27.5,
-NA Beverage,Sprite (can),,,4.5,6,27,4.5,22.5,
-NA Beverage,Aranciata San Pellegrino,,,4.5,2,9,0,9,
-NA Beverage,Limonata San Pellegrino,,,4.5,1,4.5,0,4.5,
-NA Beverage,Ginger Ale,,,4.5,1,4.5,0,4.5,
-No Sales Category,,,,0,102,0,0,0,
-No Sales Category,**HOLD FOR FIRE**,,,0,8,0,0,0,
-No Sales Category,_____________,,,0,3,0,0,0,
-No Sales Category,**FIRE**,,,0,35,0,0,0,
-No Sales Category,FIRE Third Course,,,0,3,0,0,0,
-No Sales Category,FIRE Second Course,,,0,53,0,0,0,
-Beer,,,,7.29,115,838,7,831,
-Beer,Raging Blonde,,,8,15,120,0,120,
-Beer,Menabrea,,,7,84,588,7,581,
-Beer,Southern Swells,,,9,8,72,0,72,
-Beer,NA Peroni,,,7,6,42,0,42,
-Beer,GRN Room choc Porter,,,8,1,8,0,8,
-Beer,High Head GRN Room,,,8,1,8,0,8,
-Coffee,,,,4.13,26,107.5,0,107.5,
-Coffee,Cappuccino,,,6,3,18,0,18,
-Coffee,Espresso,,,4,4,16,0,16,
-Coffee,Hot tea,,,3.5,5,17.5,0,17.5,
-Coffee,Americano,,,3,7,21,0,21,
-Coffee,DBL Espresso,,,5,6,30,0,30,
-Coffee,Macchiato,,,5,1,5,0,5,
-Food: Deli To Go (No Tax),,,,10,2,20,0,20,
-Food: Deli To Go (No Tax),Galletti Cookies,,,6,1,6,0,6,
-Food: Deli To Go (No Tax),Mozzarella di Bufala,,,14,1,14,0,14,
-Retail,,,,36,3,108,0,108,
-Retail,Pandoro Zabaione,,,36,1,36,0,36,
-Retail,Pandoro Classico,,,36,1,36,0,36,
-Retail,Pandoro Cioccolato,,,36,1,36,0,36,
+Sales Category,Item Name,Modifier,Avg Price,Quantity,Gross Sales,Discount Amount,Net Sales
+Food,Food Total,,24.66,1221.4999909999997,30118.07,704.75,29413.32
+Food,Dessert Trio,,26,4,104,0,104
+Food,Classic Caesar Salad,,15.516059869963716,70.999999,1088.04,7.5,1080.54
+Food,Chitarra Cacio e Pepe,,31.445554684778823,72,2314,0,2314
+Food,Fingerling Potatoes,,8.25,4,33,0,33
+Food,Tiramisu,,12.333333333333334,49,592,192,400
+Food,Ravioli del Salumiere,,25.41883116883117,49,1260,12,1248
+Food,APP SPECIAL,,20.333333333333332,28,595,25,570
+Food,Marinated Olives,,5.333333333333333,16,82,0,82
+Food,NY Steak,,42,11,462,0,462
+Food,Branzino,,34.2,11,375,0,375
+Food,Eggplant Parmigiana,,18,17,306,0,306
+Food,Fettuccine Nere,,24.261363636363637,31,757,0,757
+Food,Prosciutto di Parma,,14.00046218507757,17.499999,245.01,7,238.01
+Food,Gelato,,10,10,100,10,90
+Food,Crucolo,,14.001669001669002,6.999999,98.01,7,91.01
+Food,Cavatelli Pomodoro,,22.76878306878307,48,1086.5,31.5,1055
+Food,Ossobuco,,36,23,828,54,774
+Food,Salame Cioccolato,,12.2,6,74,0,74
+Food,Almond cake,,12,9,108,0,108
+Food,Kids Polpette,,14,5,70,0,70
+Food,Ribeye,,48.56666666666667,30,1475,73.5,1401.5
+Food,Verde del Contadino,,9.75,4,39,0,39
+Food,Parma e Bufala Caprese,,28.142857142857142,15,421,42,379
+Food,Roasted Asparagus,,8.166666666666666,12,97,2,95
+Food,Shrimp Skewers,,29.333333333333332,14,408,29,379
+Food,Giardiniera,,5.402001002001002,4.999999,27.01,0,27.01
+Food,Kids Pasta,,12.333333333333334,9,114,6,108
+Food,Burratina,,18.142857142857142,18,325,0,325
+Food,Pasta,,20.466666666666665,11,224,0,224
+Food,Pecorino Toscano,,14,9,126,0,126
+Food,Green Beans,,8.25,6,49,0,49
+Food,Lasagna del Salumiere,,22.25,47,1037,0,1037
+Food,Tagliatelle Bolognese,,20.3,69,1385,10,1375
+Food,Mixed Exotic Mushroom,,8,9,72,0,72
+Food,Calamari,,19,31,589,0,589
+Food,Tagliolini white truf,,60.75,8,486,0,486
+Food,Percorino al Tartufo,,14.2,11.5,162,0,162
+Food,Angelo's Meatballs,,18.22222222222222,51,923,0,923
+Food,Tagliolini al Limone,,28.882807981492192,65,1858.5,59.75,1798.75
+Food,Cheese Selection,,29.167920292920293,11.999999,349.01,14.5,334.51
+Food,Piovra,,20,17,340,0,340
+Food,Trio di Prosciutti,,28,12,336,0,336
+Food,Filet Mignon,,53.00476190476191,19,1016,52,964
+Food,Coppa Dolce,,12,6,72,0,72
+Food,Prosciutto San Daniele,,14.166666666666666,11,155,0,155
+Food,CANNOLI,,12,12,144,0,144
+Food,Pork Milanese,,32.333333333333336,22,707,32,675
+Food,Kids Ice cream,,4,7,28,4,24
+Food,Side Sauce,,4.123500373500374,5.999999,23.49,0,23.49
+Food,Broccolini,,8,8,64,0,64
+Food,Piccola Selezione,,26,6,156,0,156
+Food,Bread,,0,36,0,0,0
+Food,Creamy Spinach,,8,6,48,0,48
+Food,Lemon Pannacotta,,12.2000024000024,4.999999,61,0,61
+Food,Affogato,,10,2,20,0,20
+Food,Kids Milanese,,16,3,48,24,24
+Food,Grande Selezione,,35,1,35,0,35
+Food,SOUP,,12,9,108,0,108
+Food,Spaghetti Alla Bottarga,,28,4,112,0,112
+Food,Pasta Special,,29.333333333333332,12,348,0,348
+Food,Grissini Side,,6,1,6,0,6
+Food,Fish SPECIAL,,41.5,15,662,0,662
+Food,Speck,,13,1,13,0,13
+Food,Lamb Chop,,43,8,341,0,341
+Food,Parmigiano,,14.25,6,85,0,85
+Food,Side Blk Pepper Honey,,3.000001125001125,3.999999,12,0,12
+Food,Brie,,14,4,56,0,56
+Food,Unmet Food,,1806.5,1,1806.5,0,1806.5
+Food,MAGNIFICO $130 INDIVIDUAL ENTREE,,130,12,1560,0,1560
+Food,Salmone Capperi e Limone,,34,5,170,0,170
+Food,Cake Fee,,3,1,3,0,3
+Food,Mashed Potatoes,,8,5,40,0,40
+Food,Chicken Marsala,,36,1,36,0,36
+Food,Gorgonzola,,14,3,42,0,42
+Food,Special BOARD,,25,1,25,0,25
+Food,Tagliolini al Tartufo Bianco,,61.5,4,246,0,246
+Food,Guanciale,,14,1,14,0,14
+Food,Bottarga Side,,10,1,10,0,10
+Food,Finocchiona,,12,1,12,0,12
+Food,Anchovies Side,,4,1,4,0,4
+Food,Gelato Famiglia,,22,1,22,0,22
+Food,Mortadella,,11,3,33,0,33
+Food,Tagliata,,58,2,116,0,116
+Food,Salame Nostrano,,12.000006000006,2.499999,30,0,30
+Food,Vitello Tonnato,,20,5,100,10,90
+Food,CHIX  Special,,36,3,108,0,108
+Liquor,Liquor Total,,13.48,860,11593,389.5,11203.5
+Liquor,Blood Orange Mule,,13,15,195,0,195
+Liquor,Smoky 'n' Hot,,13,11,143,0,143
+Liquor,TITOS,,9.728571428571428,74,703,67.5,635.5
+Liquor,Angelo Spritz,,14,11,154,14,140
+Liquor,MILAGRO SLVR,,10.9375,26,304,9,295
+Liquor,BOMBAY Dry,,9,2,18,0,18
+Liquor,BEEFEATER,,10,16,160,20,140
+Liquor,CASAMIGOS BLNC,,12,9,108,0,108
+Liquor,FLOR DE CANA 4YR,,12,1,12,0,12
+Liquor,MACALLAN 12,,18,4,72,0,72
+Liquor,FERNET BRANCA,,10,11,110,5,105
+Liquor,MARTINI,,14.961904761904762,90,1337,43,1294
+Liquor,Grapfruit Basil'tini,,15,24,360,15,345
+Liquor,Lavender Gimlet,,14,5,70,0,70
+Liquor,Planteray Cut & Dry,,15,1,15,15,0
+Liquor,WOODFORD RSV,,11.5,5,59,0,59
+Liquor,House old Fashioned,,14,39,546,0,546
+Liquor,Aperol Spritz,,13,16,208,0,208
+Liquor,MAKERS MARK,,10.125,19,193,0,193
+Liquor,SAMBUCA,,9,6,54,0,54
+Liquor,400 CONEJOS MEZCAL,,13.25,3,37,4.5,32.5
+Liquor,Espresso Martini,,15.465941163699522,148,2377,72,2305
+Liquor,BASIL HAYDENS,,14.5,3,42,0,42
+Liquor,First Coast Martini,,14,18,252,0,252
+Liquor,Rumplemiz,,8,2,16,0,16
+Liquor,CROWN ROYAL,,11,6,66,0,66
+Liquor,NEGRONI,,12.8125,17,218,0,218
+Liquor,KETEL ONE,,10.6,17,176,10,166
+Liquor,TEMPLETON RYE,,15,1,15,0,15
+Liquor,BACARDI WHITE,,10.875,6,63,0,63
+Liquor,HENDRICKS,,12.5,4,50,0,50
+Liquor,Montenegro NY Sour,,14,5,70,14,56
+Liquor,REDEMPTION RYE,,14,2,28,0,28
+Liquor,CHARTREUSE GREEN,,13.666666666666666,5,65,6,59
+Liquor,MILAGRO REPO,,12.5,5,59,28.5,30.5
+Liquor,Bellini,,13,4,52,0,52
+Liquor,CLAZE AZUL REPO,,35,10,350,0,350
+Liquor,LIMONCELLO,,8.2,9,75,8,67
+Liquor,LICOR 43,,8,2,16,0,16
+Liquor,JAMESON IRISH,,10,6,60,0,60
+Liquor,Don Fulano Repo,,17.363636363636363,34,574,0,574
+Liquor,BRANCAMENTA,,10,4,40,0,40
+Liquor,Buffalo Trace,,11,17,187,0,187
+Liquor,BAILEYS,,9,5,45,0,45
+Liquor,Paper Plane,,15,16,240,0,240
+Liquor,Don Fulano Blanco,,14,5,70,14,56
+Liquor,DISARONNO AMARETTO,,12,4,48,0,48
+Liquor,GREY GOOSE,,13,8,116,0,116
+Liquor,JACK DANIELS,,9.083333333333334,24,219,0,219
+Liquor,904 Collins,,14,9,126,0,126
+Liquor,BORGHETTI,,8,9,72,0,72
+Liquor,STOLI CITROS,,12,1,12,0,12
+Liquor,DJ 1942,,31.5,3,96,0,96
+Liquor,CASAMIGOS REPO,,20.555555555555557,5,101,19,82
+Liquor,Vesper,,19,1,19,0,19
+Liquor,GRAND MARNIER,,10,9,90,0,90
+Liquor,Boulevardier,,13,2,26,0,26
+Liquor,PATRON SILVER,,12.3,7,87,0,87
+Liquor,Spritz on the beach,,14,1,14,0,14
+Liquor,BOMBAY SAPPHIRE,,10,1,10,0,10
+Liquor,Glenfiddich 12yr,,15,4,60,0,60
+Liquor,Hugo spritz,,14,4,56,0,56
+Liquor,Dry Daquiri,,14,1,14,0,14
+Liquor,MONTENEGRO AMARO,,8,1,8,0,8
+Liquor,PATRON REPO,,20,1,20,0,20
+Liquor,ANGELS ENVY,,14,2,28,0,28
+Liquor,Atlantic Spritz,,13,3,39,0,39
+Liquor,El Guapo,,13,4,52,0,52
+Liquor,Don Fulano Anejo,,22,3,66,0,66
+Liquor,Patron XO,,14.333333333333334,2,26,0,26
+Liquor,BELVEDERE,,12.5,2,25,0,25
+Liquor,BOTANIST,,10,4,40,20,20
+Liquor,LUCANO AMARO,,10,1,10,5,5
+Liquor,Captain Morgan,,9,2,18,0,18
+Liquor,SKYY,,9,1,9,0,9
+Liquor,Tequila Smokey 'n' Hot,,13,1,13,0,13
+Liquor,Tullamore Dew,,9,1,9,0,9
+Wine,Wine Total,,25.37,342,8678,576,8102
+Wine,Btl Morellino Scansano Pupille,,52,4,208,0,208
+Wine,Gls Sauv Blanc F.Sardi,,15,20,300,0,300
+Wine,Gls Cab Sauv-Bull by the Horns,,15,36,540,15,525
+Wine,Glass Baby Amarone-Masi,,17,5,85,0,85
+Wine,Btl Montepulciano Fantini,,49,4,196,49,147
+Wine,Btl Chianti Clas Rsv Lamole,,78,2,156,0,156
+Wine,Sample,,0,21,0,0,0
+Wine,Gls Syltbar Rose,,14,3,42,0,42
+Wine,Gls Pinot Noir Oregon T.,,15,26,390,0,390
+Wine,Gls Morellino Pupille,,15,7,105,0,105
+Wine,Gls Prosecco-Cin Cin,,12,18,216,36,180
+Wine,Gls Rose-Fattoria Sardi,,14,7,98,0,98
+Wine,Gls Pinot Grigio-Zenato,,13,22,286,0,286
+Wine,Btl Cab Sauv Bull by the Horns,,58,4,232,0,232
+Wine,Gls Montepulciano Fantini,,13,10,130,0,130
+Wine,Gls Super Tuscan Villa Antinori,,16,48,768,0,768
+Wine,Btl Prosecco- Cin Cin,,42,5,210,0,210
+Wine,Btl Valpolicella Zenato,,54,2,108,0,108
+Wine,Gls Moscato-Marenco,,14,19,266,0,266
+Wine,Btl Pinot Grigio Zenato,,42,5,210,21,189
+Wine,Btl Pinot Noir Oregon,,58,6,348,58,290
+Wine,Gls Vermentino-Argiolas,,13,8,104,0,104
+Wine,Btl Brunello Di Montalcino nova,,194,2,388,0,388
+Wine,Btl Nebbiolo-Prunotto,,66,3,198,0,198
+Wine,Btl Barolo-Prunotto,,156,4,624,78,546
+Wine,Btl Cutrer Chardonnay,,54,4,216,0,216
+Wine,Btl Rose Fattoria Sardi,,56,1,56,0,56
+Wine,Btl Super Tuscan-Antinori,,56,5,280,28,252
+Wine,Btl Falanghina Terredora,,48,1,48,0,48
+Wine,Btl Vermentino Argiolas,,52,4,208,26,182
+Wine,Btl Sauv Blanc F.Sardi,,60,4,240,30,210
+Wine,Gls Chardonnay-Cutter,,15,10,150,0,150
+Wine,Btl Baby Amarone-Masi,,66,1,66,33,33
+Wine,Btl Barbera D alba-Massolini,,63,1,63,31.5,31.5
+Wine,Btl Cab Sauv Bella Union,,115,2,230,57.5,172.5
+Wine,Btl Negroamaro San Marzano,,82,1,82,41,41
+Wine,Gls Pecorino-Zite,,13,4,52,0,52
+Wine,Btl Merlot-Rutherford Hills,,72,1,72,36,36
+Wine,CORK FEE,,35,3,105,0,105
+Wine,Gls Nebbiolo-Prunotto,,18,4,72,0,72
+Wine,Btl Amarone Riserva Masi,,198,1,198,0,198
+Wine,Btl Chianti Macie RSV,,72,1,72,36,36
+Wine,Gls Falanghina-Terredora,,13,2,26,0,26
+Wine,Btl Cab Sauv Caymus,,234,1,234,0,234
+NA Beverage,NA Beverage Total,,5.74,144,826.98,18,808.98
+NA Beverage,Mocktail,,8,12,96,0,96
+NA Beverage,Club Soda,,4.5,2,9,0,9
+NA Beverage,Panna,,7,19,133,0,133
+NA Beverage,San Pellegrino,,7,33,231,0,231
+NA Beverage,Coke (can),,4.5,17,76.5,0,76.5
+NA Beverage,Diet Coke (can),,4.498571428571428,25,112.48,0,112.48
+NA Beverage,Fresh Lemonade,,5,4,20,0,20
+NA Beverage,Ice tea,,4.5,17,76.5,13.5,63
+NA Beverage,Shirley Temple,,5.5,5,27.5,0,27.5
+NA Beverage,Sprite (can),,4.5,6,27,4.5,22.5
+NA Beverage,Aranciata San Pellegrino,,4.5,2,9,0,9
+NA Beverage,Limonata San Pellegrino,,4.5,1,4.5,0,4.5
+NA Beverage,Ginger Ale,,4.5,1,4.5,0,4.5
+No Sales Category,No Sales Category Total,,0,102,0,0,0
+No Sales Category,**HOLD FOR FIRE**,,0,8,0,0,0
+No Sales Category,_____________,,0,3,0,0,0
+No Sales Category,**FIRE**,,0,35,0,0,0
+No Sales Category,FIRE Third Course,,0,3,0,0,0
+No Sales Category,FIRE Second Course,,0,53,0,0,0
+Beer,Beer Total,,7.29,115,838,7,831
+Beer,Raging Blonde,,8,15,120,0,120
+Beer,Menabrea,,7,84,588,7,581
+Beer,Southern Swells,,9,8,72,0,72
+Beer,NA Peroni,,7,6,42,0,42
+Beer,GRN Room choc Porter,,8,1,8,0,8
+Beer,High Head GRN Room,,8,1,8,0,8
+Coffee,Coffee Total,,4.13,26,107.5,0,107.5
+Coffee,Cappuccino,,6,3,18,0,18
+Coffee,Espresso,,4,4,16,0,16
+Coffee,Hot tea,,3.5,5,17.5,0,17.5
+Coffee,Americano,,3,7,21,0,21
+Coffee,DBL Espresso,,5,6,30,0,30
+Coffee,Macchiato,,5,1,5,0,5
+Food: Deli To Go (No Tax),Food: Deli To Go (No Tax) Total,,10,2,20,0,20
+Food: Deli To Go (No Tax),Galletti Cookies,,6,1,6,0,6
+Food: Deli To Go (No Tax),Mozzarella di Bufala,,14,1,14,0,14
+Retail,Retail Total,,36,3,108,0,108
+Retail,Pandoro Zabaione,,36,1,36,0,36
+Retail,Pandoro Classico,,36,1,36,0,36
+Retail,Pandoro Cioccolato,,36,1,36,0,36
